@@ -4,3 +4,4 @@ i performed a supervised classification on a portion of ghana specifically aroun
 this is to identify land use and land cover changes in the regions to acertain how urbanization is affecting our vegetative cover and farmlands.
 i used landsat 8 imagery from 2021 and performed the analysis using SCP in QGIS
 It was identified that forest areas were being converted to buildings and farmlands. i also identified that there were buildings ongoing along the river banks which if not regulated can lead to floods in the future.
+[main]Screenshot 2025-02-11 162927.png
